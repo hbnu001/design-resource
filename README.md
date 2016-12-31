@@ -50,11 +50,11 @@ Most of the time you don't need to draw your own icons, or take your own photos.
 
 The easiest way to build a color pallete is by sampling colors from an existing image.
 
-+ [Dribble designs](https://dribbble.com/colors/66cccc)  If you have a specific color in mind, view this by color.
++ [Dribble designs](https://dribbble.com/colors/66cccc){:target="_blank"}  If you have a specific color in mind, view this by color.
 
-+ [Adobe Kuler Color Wheel](https://kuler.adobe.com/create/color-wheel/)
++ [Adobe Kuler Color Wheel](https://kuler.adobe.com/create/color-wheel/){:target="_blank"}
 
-+ [Brand Colors](http://brandcolors.net/)
++ [Brand Colors](http://brandcolors.net/){:target="_blank"}
 
 ##  Guidelines
 + [iOS Human Interface Guidelines10](https://developer.apple.com/ios/human-interface-guidelines/)
